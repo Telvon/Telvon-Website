@@ -1,9 +1,14 @@
 /* CSS files add styling rules to your content */
 
 h1{
-  color: red;
+  color: #00126d;
 }
 
 .new{
   font-style: italic;
+}
+
+body{
+  background-color: #7f0000;
+  color: #02071e;
 }
