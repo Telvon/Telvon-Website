@@ -3,12 +3,15 @@
 h1{
   color: #ffffff;
 }
+h2{
+  color: #ffffff;
+}
 
 .new{
   font-style: italic;
 }
 
 body{
-  background-color: #2541b2;
+  background-color: #1768ac;
   color: #02071e;
 }
